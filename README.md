@@ -2,6 +2,7 @@
 IOTA seed contains 2 extra letters? This will find your seed
 
 ##############################
+
 This was made to help finding a seed that was written down wrong. The person had 83 letters instead of 81.
 
 Req: You will need npm
